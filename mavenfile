@@ -18,7 +18,7 @@ steps {
 
 input('Do you want to proceed?')
 
-echo 'THIS IS THE DEMO OF MAVEN PIPELINE USING JENKINS
+echo 'THIS IS THE DEMO OF MAVEN PIPELINE USING JENKINS'
 
 }
 
